@@ -34,3 +34,19 @@ coverage
 
 # Vitest
 __screenshots__/
+
+# Auto-generated files
+auto-imports.d.ts
+components.d.ts
+
+# Bun
+bun.lock
+.bun/
+
+# Temporary files
+.tmp/
+node_modules/.tmp/
+
+# Environment files
+.env*
+!.env.example
